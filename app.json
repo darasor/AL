@@ -1,0 +1,23 @@
+{
+  "id": "6a8863a5-fe54-4813-8ad9-e584e69c23c3",
+  "name": "RewardProject",
+  "publisher": "Dara Sor",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 59999
+  }
+}
